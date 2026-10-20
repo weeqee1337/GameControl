@@ -109,8 +109,7 @@ void __fastcall TForm2::FormShow(TObject *Sender)
 		HWND_TOPMOST,
 		0, 0,
 		screenWidth, screenHeight,
-		SWP_SHOWWINDOW | SWP_FRAMECHANGED | SWP_NOCOPYBITS
-	);
+		SWP_SHOWWINDOW | SWP_FRAMECHANGED | SWP_NOCOPYBITS);
 
 	this->Invalidate();
 	this->Repaint();

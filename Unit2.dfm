@@ -211,7 +211,7 @@ object Form2: TForm2
       ParentFont = False
       PasswordChar = '*'
       TabOrder = 1
-      TextHint = 'Enter password'
+      TextHint = 'Enter password...'
       OnChange = Edit1Change
     end
     object Button2: TButton
