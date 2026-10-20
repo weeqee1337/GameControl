@@ -22,6 +22,6 @@ When the configured timer expires, the application automatically minimizes all o
 * **OS:** Windows 7 / 8 / 10 / 11 (32-bit or 64-bit)
 * **Subsystem:** Win32 (built with Embarcadero C++Builder VCL framework)
 
-## Screenshots
+## Screenshot
 <img width="630" height="277" alt="image" src="https://github.com/user-attachments/assets/7201838a-fc8f-44f2-8c40-92d3470387c8" />
 
